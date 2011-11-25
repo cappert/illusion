@@ -1,0 +1,19 @@
+
+
+
+
+
+
+
+function mainAI.onInit()
+
+
+
+
+
+
+
+application.setCurrentUserScene("gameScene")
+
+
+end

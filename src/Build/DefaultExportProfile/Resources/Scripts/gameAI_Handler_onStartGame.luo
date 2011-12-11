@@ -1,0 +1,19 @@
+
+
+
+
+
+
+
+function gameAI.onStartGame()
+
+
+
+
+
+
+local bConstruction=application.setCurrentUserScene("gameScene")
+local hScene=application.getCurrentUserScene()
+
+
+end

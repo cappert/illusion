@@ -5,15 +5,13 @@
 --------------------------------------------------------------------------------
 
 --------------------------------------------------------------------------------
-function mainAI.onPlay (  )
+function mainAI.onPause (  )
 --------------------------------------------------------------------------------
 	
 	--
 	-- Write your code here, using 'this' as current AI instance.
 	--
 	
-    application.setCurrentUserScene ( "gameScene" )
-    hud.newTemplateInstance ( this.getUser ( ), "gameHud", "gameHud" )
     
 --------------------------------------------------------------------------------
 end
